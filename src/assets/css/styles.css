@@ -100,8 +100,8 @@ img::-moz-selection {
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: #0367fe !important;
-  border-color: #0367fe !important;
+  background-color: #1ba8e9 !important;
+  border-color: #1ba8e9 !important;
   color: #fff
 }
 
@@ -263,7 +263,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgba(254, 209, 54, .9)
+  background: #2318bd;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {

@@ -1,4 +1,6 @@
-# dulce-vue
+# Dulce Studios
+
+Building a website with Bootstrap and Vue.
 
 ## Project setup
 ```

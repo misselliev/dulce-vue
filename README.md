@@ -2,30 +2,13 @@
 
 Building a website with Bootstrap and Vue.
 
-## Project setup
-```
-npm install
-```
+# Live
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+You can look at the live version [here](https://calm-river-72964.herokuapp.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# About
 
-### Run your tests
-```
-npm run test
-```
+You can reach me at:
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Twitter](https://twitter.com/miss_elliev/)
+- [Dev.To](https://dev.to/misselliev)
